@@ -25,11 +25,11 @@ To install the required libraries, run the following command:
 
 ```bash
 pip install pandas httpx aiohttp beautifulsoup4 sumy nest_asyncio matplotlib seaborn nltk spacy gensim google textblob
-
+```
 ## Usage
-Clone the repository, run the script or Jupyter notebook, and input a search query to fetch articles and visualize sentiment distribution.
+- Clone the repository, run the script or Jupyter notebook, and input a search query to fetch articles and visualize sentiment distribution.
 
 
-Feel free to adjust any details to better suit your project!
+### Feel free to adjust any details to better suit your project!
 
 
